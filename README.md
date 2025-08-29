@@ -1,24 +1,32 @@
-# About me
+## About Me
 
-I am a computational scientist specializing in machine learning and statistical
-inference for biological data analysis, currently working in the lab of [Dmitri
+I am a **Computational Scientist II** at [Altos
+Labs](https://www.altoslabs.com/), specializing in **Statistical Inference** and
+**Machine Learning**. My work is centered on building robust, scalable, and
+reproducible computational workflows to derive actionable insights from complex
+biological data.
+
+---
+
+## Research Philosophy 🧬
+
+I am passionate about the intersection of **Evolution** and the **Physics of
+Living Systems**. I believe that understanding complex biological phenomena
+requires physics-like approaches, particularly techniques from statistical
+physics and dynamical systems theory. My goal is to bridge fundamental cellular
+principles with rigorous, data-driven modeling by combining biophysical models
+with modern deep learning techniques.
+
+---
+
+## Background
+
+Previously, I was a postdoctoral researcher in the lab of [Dmitri
 Petrov](https://petrov.stanford.edu/) at [Stanford
-University](http://stanford.edu) and collaborating with [Madhav
-Mani](https://www.madhavmani.com) at Northwestern University. My research
-focuses on developing novel computational approaches that combine dynamical
-systems theory, biophysical modeling, and deep learning techniques to extract
-actionable insights from complex multi-scale biological datasets.
-
-I am particularly passionate about Evolution and the Physics of Living Systems,
-believing that understanding evolution requires physics-like approaches,
-especially techniques borrowed from statistical physics and complex systems. My
-work aims to create robust, scalable workflows that bridge fundamental cellular
-principles with rigorous data-driven decision making—all implemented with strong
-software engineering practices to ensure reproducibility and deployment
-readiness.
-
-I completed my [Ph.D.](https://mrazomej.github.io/phd) with [Rob
-Phillips](http://rpgroup.caltech.edu/) at [Caltech](http://caltech.edu), where I
-explored how cells gather information from the environment, process it, and
-build responses to maintain homeostasis. You can learn more about this work in
-[my thesis](https://mrazomej.github.io/phd/).
+University](http://stanford.edu), collaborating with [Madhav
+Mani](https://www.madhavmani.com) at Northwestern University. I completed my
+Ph.D. with [Rob Phillips](http://rpgroup.caltech.edu/) at
+[Caltech](http://caltech.edu), where I explored how cells gather information
+from the environment, process it, and build responses to maintain homeostasis.
+You can learn more about my work from [my
+publications](https://mrazomej.github.io/publications/).
