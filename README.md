@@ -1,32 +1,27 @@
 ## About Me
 
-I am a **Computational Scientist II** at [Altos
-Labs](https://www.altoslabs.com/), specializing in **Statistical Inference** and
-**Machine Learning**. My work is centered on building robust, scalable, and
-reproducible computational workflows to derive actionable insights from complex
-biological data.
+I’m a **Scientist II in Computational Biology** at [Altos Labs](https://www.altoslabs.com/), developing **probabilistic machine learning methods and biophysical models** to understand biological systems.
 
----
+My research spans **single-cell genomics, evolutionary dynamics, and gene regulation**. I combine statistical physics, generative modeling, and Bayesian inference to ask: **what can we reliably learn from noisy biological measurements?**
 
-## Research Philosophy 🧬
+## How I Approach Research
 
-I am passionate about the intersection of **Evolution** and the **Physics of
-Living Systems**. I believe that understanding complex biological phenomena
-requires physics-like approaches, particularly techniques from statistical
-physics and dynamical systems theory. My goal is to bridge fundamental cellular
-principles with rigorous, data-driven modeling by combining biophysical models
-with modern deep learning techniques.
+I move between mechanistic models, statistical inference, and deep learning according to the biological question. My experience performing experiments—including fluorescence microscopy—shapes how I model measurements, test predictions, and interpret uncertainty.
 
----
+Statistical physics and dynamical systems provide a foundation for connecting molecular mechanisms to cellular behavior. Probabilistic machine learning helps me bring that understanding to complex, high-dimensional data.
+
+I build scientific software that makes these methods usable: explicit assumptions, reusable components, reproducible analyses, and documentation that connects the code to the science.
+
+## Scientific Software
+
+- **[BarBay.jl](https://github.com/mrazomej/BarBay.jl)** — Bayesian inference of relative fitness from high-throughput DNA barcode competition assays, with uncertainty quantification and models for multiple environments and experimental replicates. [Documentation](https://mrazomej.github.io/BarBay.jl/stable/)
+- **[AutoEncoderToolkit.jl](https://github.com/mrazomej/AutoEncoderToolkit.jl)** — Tools for training variational autoencoders and their extensions, including geometric analysis of learned latent spaces. [Documentation](https://mrazomej.github.io/AutoEncoderToolkit.jl/stable/)
+- **SCRIBE** — Probabilistic modeling of single-cell RNA-seq data with explicit treatment of measurement noise and uncertainty, using GPU-accelerated inference in JAX and NumPyro. Source code is currently private; publication in preparation.
 
 ## Background
 
-Previously, I was a postdoctoral researcher in the lab of [Dmitri
-Petrov](https://petrov.stanford.edu/) at [Stanford
-University](http://stanford.edu), collaborating with [Madhav
-Mani](https://www.madhavmani.com) at Northwestern University. I completed my
-Ph.D. with [Rob Phillips](http://rpgroup.caltech.edu/) at
-[Caltech](http://caltech.edu), where I explored how cells gather information
-from the environment, process it, and build responses to maintain homeostasis.
-You can learn more about my work from [my
-publications](https://mrazomej.github.io/publications/).
+Previously, I was a **Schmidt Science Fellow and postdoctoral researcher at Stanford**, working with [Dmitri Petrov](https://petrov.stanford.edu/) and collaborating with [Madhav Mani](https://www.madhavmani.com) at Northwestern University. My work focused on Bayesian fitness inference and geometry-aware representation learning for evolutionary landscapes.
+
+I earned my **PhD in Biochemistry and Molecular Biophysics at Caltech** with [Rob Phillips](https://www.rpgroup.caltech.edu/), combining statistical physics, information theory, and experiments to study how genetic circuits process environmental signals.
+
+[Research & publications](https://mrazomej.github.io/publications/) · [Personal website](https://mrazomej.github.io/)
